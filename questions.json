@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Anna starts at 4 on the number line. She jumps 3 steps to the right. Where does she land?<br><img width='90%' src='./images/22.jpg'>",
+        "options": [
+            "5",
+            "7",
+            "6",
+            "4"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Tom is on number 8 on the number line. He jumps 5 steps to the left. What number does he land on?<br><img width='90%' src='./images/23.jpg'>",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "You start at number 3 on the number line and jump 2 steps forward. Where are you now?<br><img width='90%' src='./images/24.jpg'>",
+        "options": [
+            "4",
+            "3",
+            "6",
+            "5"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Begin at number 9 and jump 3 steps backward. Which number do you land on?<br><img width='90%' src='./images/25.jpg'>",
+        "options": [
+            "9",
+            "7",
+            "6",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "You are at number 4. Jump 4 steps forward. Where do you end up?<br><img width='90%' src='./images/26.jpg'>",
+        "options": [
+            "8",
+            "7",
+            "6",
+            "4"
+        ],
+        "correct": 0
+    }
+]
